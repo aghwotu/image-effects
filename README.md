@@ -41,6 +41,6 @@ Start the server
 
 ## Tech Stack
 
-**Client:** JavaScript, HTML, Rust
+**Client:** JavaScript, HTML
 
 **Server:** Rust
