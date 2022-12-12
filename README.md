@@ -1,6 +1,7 @@
 # Grayscale Image Effects
 
-This project will convert your images coloured images to grayscale.
+This project will convert your coloured images to grayscale images.
+[Image Effects link](http://image-effects-aghwotu.vercel.app/)
 
 ## Screenshots
 
